@@ -1,0 +1,13 @@
+C:\Users\zac\source\repos\Vectors\Vectors\bin\Debug\netcoreapp3.1\Vectors.exe
+C:\Users\zac\source\repos\Vectors\Vectors\bin\Debug\netcoreapp3.1\Vectors.deps.json
+C:\Users\zac\source\repos\Vectors\Vectors\bin\Debug\netcoreapp3.1\Vectors.runtimeconfig.json
+C:\Users\zac\source\repos\Vectors\Vectors\bin\Debug\netcoreapp3.1\Vectors.runtimeconfig.dev.json
+C:\Users\zac\source\repos\Vectors\Vectors\bin\Debug\netcoreapp3.1\Vectors.dll
+C:\Users\zac\source\repos\Vectors\Vectors\bin\Debug\netcoreapp3.1\Vectors.pdb
+C:\Users\zac\source\repos\Vectors\Vectors\obj\Debug\netcoreapp3.1\Vectors.csprojAssemblyReference.cache
+C:\Users\zac\source\repos\Vectors\Vectors\obj\Debug\netcoreapp3.1\Vectors.AssemblyInfoInputs.cache
+C:\Users\zac\source\repos\Vectors\Vectors\obj\Debug\netcoreapp3.1\Vectors.AssemblyInfo.cs
+C:\Users\zac\source\repos\Vectors\Vectors\obj\Debug\netcoreapp3.1\Vectors.csproj.CoreCompileInputs.cache
+C:\Users\zac\source\repos\Vectors\Vectors\obj\Debug\netcoreapp3.1\Vectors.dll
+C:\Users\zac\source\repos\Vectors\Vectors\obj\Debug\netcoreapp3.1\Vectors.pdb
+C:\Users\zac\source\repos\Vectors\Vectors\obj\Debug\netcoreapp3.1\Vectors.genruntimeconfig.cache
